@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - **Solution URL**: [GitHub Repository](https://github.com/Eleandro1302)
-- **Live Site URL**: [Live Demo](https://eleandro-social-links-profile.netlify.app)
+- **Live Site URL**: [Live Demo](https://eleandro1302.github.io/Social-Links-Profile-main/)
 
 ---
 
@@ -121,7 +121,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - **URL da Solução**: [Repositório no GitHub](https://github.com/Eleandro1302)
-- **URL do Site ao Vivo**: [Demonstração ao Vivo](https://eleandro-social-links-profile.netlify.app)
+- **URL do Site ao Vivo**: [Demonstração ao Vivo](https://eleandro1302.github.io/Social-Links-Profile-main/)
 
 ---
 
